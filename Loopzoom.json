@@ -1,11 +1,12 @@
 
 
-import "locked.file03":[
+import "locked.file03" 
+  [
 
   {
    "{#vscip port}" : "HAMErs013"
    "{#loop train}" : "moder"
-   "{#rage byte}" : "0.1"   
+   "{#rage byte}"  : "0.1"   
      },
       {
    
