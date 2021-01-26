@@ -1,0 +1,18 @@
+Loop zomming 
+
+import "locked.file03":[
+
+  {
+   "{#vscip port}" : "HAMErs013"
+   "{#loop train}" : "moder"
+   "{#rage byte}" : "0.1"   
+     },
+      {
+   
+   "{#min}" : "0.103"
+   "{avg}" : "0.114"
+   "{max}" : "0.120"
+   },
+ ]
+}
+
