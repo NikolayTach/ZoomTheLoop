@@ -1,4 +1,4 @@
-Loop zomming 
+
 
 import "locked.file03":[
 
@@ -10,8 +10,8 @@ import "locked.file03":[
       {
    
    "{#min}" : "0.103"
-   "{avg}" : "0.114"
-   "{max}" : "0.120"
+   "{#avg}" : "0.114"
+   "{#max}" : "0.120"
    },
  ]
 }
