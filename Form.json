@@ -1,0 +1,52 @@
+{
+"id": "/-"
+"location": "/-"
+"name": "/-"
+"properties": {
+"accessPolicies": [
+{
+"applicationId": null,
+"objectId": "/-"
+"permissions": {
+"certificates": ["0"]
+"secrets": ["-"]
+"storage": ["-"]
+},
+"tenantId": "-"
+}
+],
+"CreateMode": null,
+"enablePurgeProtection": null,
+"enablerbacAuthorization": null,
+"enableSoftDelete": true,
+"enabledForDeployment": false,
+"enabledForDiskEncryption": null,
+"enabledForTemplateDeolovment":null
+"enableSoftDelete": true,
+"enabledForDeployment": false,
+"enabledForDiskEncryption": null,
+"enabledForTemplateDeployment":null,
+"smPoolresourceId": null,
+"networkAcls": null,
+"privateEndpointConnections": null,
+"provistoningState": "-"
+"publicNetworkAccess":"-"
+"sku": {
+"family": "A"
+"standard": "name"
+"softDeleteRetentionInDays":"0",
+"tenantId":"-"
+"vautturl":"-"
+"vaulturt": "-",
+"resourceGroup":"-"
+"systemData": {
+"createdAt":"-"
+"createdBy":"-"
+"createdByType": "User",
+"lastModifiedAt":"-"
+"lastModifiedBy":"-"
+"lastModifiedByType": "User"
+                        }
+            }
+        }
+    }
